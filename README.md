@@ -50,6 +50,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amirmahdi-jaberi/amirmahdi-jaberi/output/snake.svg" alt="Snake animation" />
 
 ###
